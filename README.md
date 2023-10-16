@@ -1,5 +1,5 @@
 # karthiksai
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is KARTHIK SAI AMBATI and I'm a STUDENT , from SRM UNIVERITY</h2>
 
 ###
 
