@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KARTHIK SAI AMBATI</h1>
 <h3 align="center">A passionate Software developer from India.</h3>
 
-- 🔭 I’m currently working on **APP development.**
+- 🔭 I’m currently working on **Devops, aws,WEB DEVELOPMENT ,APP development.**
 
 - 📫 How to reach me **ambatikarthik12@gmail.com**
 
